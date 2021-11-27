@@ -2,7 +2,7 @@
  
 <h1 align="center" >
 <br>
-  <img src="./static/Certificado-Alura.png" alt="Gobarber" width="600" >
+  <img src="./static/Certificado-Alura.JPG" alt="Certificado" width="600" >
 <br>
 </h1>
 
